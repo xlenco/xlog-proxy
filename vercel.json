@@ -2,6 +2,6 @@
   "name": "testgh",
   "version": 2,
   "routes": [
-    {"src": "/(.*)","dest": "https://xlog.xlenco.top/$1"}
+    {"src": "/(.*)","dest": "https://xlenco.xlog.app/$1"}
   ]
 }
