@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://xlenco.xlog.app/:splat"
+  status = 200
