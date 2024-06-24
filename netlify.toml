@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/*"
-  to = "https://xlog.app/:splat"
+  to = "https://xlenco-img.s3.bitiful.net/:splat"
   status = 200
