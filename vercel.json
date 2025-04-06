@@ -2,6 +2,6 @@
   "name": "testgh",
   "version": 2,
   "routes": [
-    {"src": "/(.*)","dest": "https://xlenco-img.s3.bitiful.net/$1"}
+    {"src": "/(.*)","dest": "http://nas.xlenco.top:1200/$1"}
   ]
 }
